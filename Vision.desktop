@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Vision
+Exec=/home/pi/pi-reboot/on_reboot.sh
+
